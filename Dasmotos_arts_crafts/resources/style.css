@@ -1,0 +1,27 @@
+h1 {
+  background-image: url(https://s3.amazonaws.com/codecademy-content/courses/freelance-1/unit-2/pattern.jpeg);
+  color: DarkGoldenRod;
+  font-family: Georgia;
+}
+#Brushes {
+background-color: Aquamarine;
+color: White;
+}
+
+#Frames {
+  background-color: Purple;
+  color: White;
+}
+
+#Paint {
+  background-color: Green;
+  color: White;
+}
+
+strong {
+color: Blue;
+}
+
+p {
+  font-family: Georgia;
+}
